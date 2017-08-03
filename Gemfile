@@ -56,3 +56,5 @@ end
 
 gem 'rakuten_web_service'
 gem 'dotenv-rails'
+
+gem 'jquery-rails'
